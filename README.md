@@ -33,18 +33,17 @@
 
    ```bash
    pip install tqdm
-   ```bash
-   
-# How to Use
+
+    
+## How to Use
 Run the script:
 
 To start the search tool, run the following command in your terminal:
 
-``bash
-Copy code
-python searchlone.py
-Follow the interactive prompts:
-``bash
+   ```bash
+   python searchlone.py
+
+# Follow the interactive prompts:
 
 The tool will guide you through the search process with interactive prompts:
 
@@ -74,7 +73,6 @@ Line: 15
 15: {{ $searchTerm }}
 16: </div>
 
-```text
 ----------------------------------------
 Default Configuration
 The tool comes with sensible defaults for web development projects:
