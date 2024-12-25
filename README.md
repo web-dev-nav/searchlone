@@ -33,17 +33,18 @@
 
    ```bash
    pip install tqdm
-
    ```bash
-How to Use
+   
+# How to Use
 Run the script:
 
 To start the search tool, run the following command in your terminal:
 
-bash
+``bash
 Copy code
 python searchlone.py
 Follow the interactive prompts:
+``bash
 
 The tool will guide you through the search process with interactive prompts:
 
