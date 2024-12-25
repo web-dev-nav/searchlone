@@ -1,5 +1,5 @@
 # searchlone
-**Dynamic File Content Searcher** is a command-line tool that helps developers search through their project files for specific content patterns. What sets it apart is its ability to recognize various programming patterns, particularly in PHP, Laravel, and HTML files. The tool provides context-aware searching with features specifically designed for web development projects.
+**Searchlone** is a command-line tool that helps developers search through their project files for specific content patterns. What sets it apart is its ability to recognize various programming patterns, particularly in PHP, Laravel, and HTML files. The tool provides context-aware searching with features specifically designed for web development projects.
 
 ## Key Features
 - **Smart Pattern Recognition**: Automatically searches for different variations of your search term, including:
@@ -69,5 +69,6 @@ Line: 15
 
 Default Configuration
 The tool comes with sensible defaults for web development projects:
+```text
 Skip Folders: vendor, node_modules, storage, bootstrap/cache, .git, public/build
 Supported Extensions: .php, .blade.php, .html
