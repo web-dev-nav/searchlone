@@ -34,7 +34,7 @@
 Run the script:
 To start the search tool, run the following command in your terminal:
    ```bash
-   python searchlone.py
+   py searchlone.py
    ```
 
 # Follow the interactive prompts:
